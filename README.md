@@ -30,7 +30,7 @@ plugins {
 
 dependencies {
     // ADD SERIALIZATION DEPENDENCY
-    implementation("com.codanbaru.kotlin:bsonmap:0.8.0")
+    implementation("com.codanbaru.kotlin:bsonmap:0.9.0")
 }
 ```
 
@@ -45,7 +45,7 @@ plugins {
 
 dependencies {
     // ADD SERIALIZATION DEPENDENCY
-    implementation 'com.codanbaru.kotlin:bsonmap:0.8.0'
+    implementation 'com.codanbaru.kotlin:bsonmap:0.9.0'
 }
 ```
 </details>
